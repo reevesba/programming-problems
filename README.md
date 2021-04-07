@@ -4,8 +4,8 @@ An algorithm problem contains 3 parts: input, output and solution/algorithm. The
 ## Array/String
 
 ### Simple Pointers
-1. [Remove Duplicates from Sorted Array I](Remove%20Duplicates%20from%20Sorted%20Array%20I)
-2. [Remove Duplicates from Sorted Array II](Remove%20Duplicates%20from%20Sorted%20Array%20II)
+1. [Remove Duplicates from Sorted Array I](array-string/simple-pointers/Remove%20Duplicates%20from%20Sorted%20Array%20I)
+2. [Remove Duplicates from Sorted Array II](array-string/simple-pointers/Remove%20Duplicates%20from%20Sorted%20Array%20II)
 3. Candy
 4. Trapping Rain Water
 5. Product of Array Except Self
@@ -40,8 +40,8 @@ An algorithm problem contains 3 parts: input, output and solution/algorithm. The
 34. Longest Common Prefix
 35. Next Permutation
 36. Sentence Screen Fitting
-37. [Remove Element](Remove%20Element)
-38. Move Zeroes
+37. [Remove Element](array-string/simple-pointers/Remove%20Element)
+38. [Move Zeroes](array-string/simple-pointers/Move%20Zeros)
 
 ### Binary Search
 1. Search Insert Position
