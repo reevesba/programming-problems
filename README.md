@@ -4,8 +4,8 @@ An algorithm problem contains 3 parts: input, output and solution/algorithm. The
 ## Array/String
 
 ### Simple Pointers
-1. [Remove Duplicates from Sorted Array I]("Remove Duplicates from Sorted Array I")
-2. [Remove Duplicates from Sorted Array II]("Remove Duplicates from Sorted Array II")
+1. [Remove Duplicates from Sorted Array I](Remove%20Duplicates%20from%20Sorted%20Array%20I)
+2. [Remove Duplicates from Sorted Array II](Remove%20Duplicates%20from%20Sorted%20Array%20II)
 3. Candy
 4. Trapping Rain Water
 5. Product of Array Except Self
