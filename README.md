@@ -40,6 +40,8 @@ An algorithm problem contains 3 parts: input, output and solution/algorithm. The
 34. Longest Common Prefix
 35. Next Permutation
 36. Sentence Screen Fitting
+37. [Remove Element](Remove%20Element)
+38. Move Zeroes
 
 ### Binary Search
 1. Search Insert Position
