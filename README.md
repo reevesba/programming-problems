@@ -42,6 +42,7 @@ An algorithm problem contains 3 parts: input, output and solution/algorithm. The
 36. Sentence Screen Fitting
 37. [Remove Element](array-string/simple-pointers/Remove%20Element)
 38. [Move Zeroes](array-string/simple-pointers/Move%20Zeros)
+39. [Two Sum I](array-string/simple-pointers/Two%20Sum)
 
 ### Binary Search
 1. Search Insert Position
